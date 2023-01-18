@@ -6,5 +6,5 @@ Todo:
 - Add the missing name of EM teacher
 - (Done) Hide an easter egg
 - Make a dynamic header
-- Add gif
+- Replace title with gif
 - Add a short message
