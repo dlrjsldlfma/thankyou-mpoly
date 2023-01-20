@@ -8,4 +8,4 @@ Todo:
 - (Done) Add the missing name of EM teacher
 - (Done) Hide an easter egg
 - (Done) Replace title with gif
-- Finish Special Thanks To list
+- (Done) Finish Special Thanks To list
